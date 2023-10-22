@@ -1,0 +1,11 @@
+Add Photo to folder Photo 
+Add your watemark to folder Watermark
+
+Write name photo
+Write name watermark
+
+You can find finally file in folder PhotoWithWatermark
+
+if you don't write a name, the photo will be "SimpleBackground.png"
+if you don't write a name, the watermark will be "SimpleBackground.png"
+if you don't cohose position, the position will be x = 0, y = 0
